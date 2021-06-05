@@ -1,0 +1,2 @@
+module AppAnalyticsHelper
+end
